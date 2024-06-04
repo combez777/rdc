@@ -7,6 +7,7 @@ body {
     background-image: url(./images/Mavic_3_Pro_lifestyle_12.jpg); */
     background-position: center;
     background-size: cover;
+    background: no-repeat;
 
     /* background-position: top; */
 }
