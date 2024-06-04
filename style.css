@@ -4,13 +4,8 @@ body {
     font-size: 15pt;
     margin: 0px;
     padding: 0px;
-    background-image: url(./images/Mavic_3_Pro_lifestyle_12.jpg); */
-    background-position: center;
-    background-size: cover;
-    background: no-repeat;
-
-    /* background-position: top; */
 }
+
 h1 {
   padding-left: 100px;
   padding-right: 100px;
@@ -22,20 +17,16 @@ h1 {
   text-align: center;
 }
 
-img {
-  margin: 0;
-  padding: 0;
-}
-
 .container {
 margin-top: 50px;
 margin-left: auto;
 margin-right: auto;
 display: block;
 text-align: center;
-width: 1600px;
+width: 800px;
 padding-top: 15px;
 padding-bottom: 15px;
+
 }
 
 .shevron{
