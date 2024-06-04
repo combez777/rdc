@@ -13,73 +13,34 @@ h1 {
   font-weight: 500;
   letter-spacing: 1px;
   font-size: 48px;
-  color: red;
   text-align: center;
 }
 
 .container {
 margin-top: 50px;
+width: 600px;
 margin-left: auto;
 margin-right: auto;
-display: block;
-text-align: center;
-width: 800px;
-padding-top: 15px;
-padding-bottom: 15px;
 
 }
 
-.shevron{
-  margin:25px;
-}
-
-.arrow-up {
-  rotate: 270deg;
-  margin: 25px 25px 15px;
-  &:hover {
-    scale: 0.9
-}
-}
-
-.arrow-on {
-  rotate: 270deg;
-  margin-bottom: 15px;
-  &:hover {
-    scale: 0.9
-}
-}
-
-
-.arrow-doun {
-  rotate: 90deg;
-  margin: 25px 25px 15px;
-  &:hover {
-    scale: 0.9
-}
-}
-
-.arrow-left {
-  rotate: 180deg;
-  &:hover {
-    scale: 0.9
-}
-}
-
-.arrow-right {
-  rotate: 0deg;
-  &:hover {
-    scale: 0.9
-}
-}
-
-.on {
+.up {
   display: flex;
   justify-content: center;
   align-items: end;
 }
 
 
-.of {
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+.down {
   display: flex;
   justify-content: center;
   align-items: start;
