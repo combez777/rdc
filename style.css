@@ -6,13 +6,15 @@ body {
 }
 
 h1 {
-  padding-left: 100px;
-  padding-right: 100px;
   font-family: 'Playfair Display SC', serif;
   font-weight: 500;
   letter-spacing: 1px;
-  font-size: 48px;
+  font-size: 32px;
   text-align: center;
+}
+
+img:hover {
+scale: 0.85;
 }
 
 .container {
